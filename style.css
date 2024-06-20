@@ -2,3 +2,15 @@ h2
 {
     color: lightseagreen;
 }
+#a1{
+    color: darkmagenta;
+}
+#a2{
+    color:rgb(4, 0, 255)
+}
+.a3{
+    color:purple
+}
+#a1,#a2,.a3,p,h1,h2{
+    background-color: rgba(194, 144, 199, 0.466);
+}
